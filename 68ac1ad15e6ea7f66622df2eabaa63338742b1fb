@@ -1,0 +1,18 @@
+package.json
+  h_eda405ae8f3342 1-7
+vercel.json
+  h_eda405ae8f3342 1-5
+webhook.js
+  h_eda405ae8f3342 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "68ac1ad15e6ea7f66622df2eabaa63338742b1fb",
+  "prompts": {},
+  "humans": {
+    "h_eda405ae8f3342": {
+      "author": "Алексей Степанов <avstep@mts.ru>"
+    }
+  }
+}
