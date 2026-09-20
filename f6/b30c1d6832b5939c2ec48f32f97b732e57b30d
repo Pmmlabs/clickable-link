@@ -1,0 +1,14 @@
+api/r.js
+  h_4bfcd31e5ba605 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f6b30c1d6832b5939c2ec48f32f97b732e57b30d",
+  "prompts": {},
+  "humans": {
+    "h_4bfcd31e5ba605": {
+      "author": "Pmmlabs <microreticulum@pmmlabs.ru>"
+    }
+  }
+}
