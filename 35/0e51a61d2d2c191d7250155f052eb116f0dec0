@@ -1,0 +1,14 @@
+api/webhook.js
+  h_4bfcd31e5ba605 5-7,23-24,27,41-74,77-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "350e51a61d2d2c191d7250155f052eb116f0dec0",
+  "prompts": {},
+  "humans": {
+    "h_4bfcd31e5ba605": {
+      "author": "Pmmlabs <microreticulum@pmmlabs.ru>"
+    }
+  }
+}
