@@ -1,7 +1,5 @@
 {
   "name": "clickable-link-bot",
   "version": "1.0.0",
-  "dependencies": {
-    "telegraf": "^4.15.0"
-  }
+  "dependencies": {}
 }
