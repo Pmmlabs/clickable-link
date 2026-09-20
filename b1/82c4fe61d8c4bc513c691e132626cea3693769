@@ -1,0 +1,14 @@
+vercel.json
+  h_4bfcd31e5ba605 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b182c4fe61d8c4bc513c691e132626cea3693769",
+  "prompts": {},
+  "humans": {
+    "h_4bfcd31e5ba605": {
+      "author": "Pmmlabs <microreticulum@pmmlabs.ru>"
+    }
+  }
+}
