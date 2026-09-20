@@ -1,0 +1,18 @@
+package.json
+  h_4bfcd31e5ba605 4
+vercel.json
+  h_4bfcd31e5ba605 3
+api/r.js
+  h_4bfcd31e5ba605 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "211fbfc82d869c4d648558721712331b6ce84d4f",
+  "prompts": {},
+  "humans": {
+    "h_4bfcd31e5ba605": {
+      "author": "Pmmlabs <microreticulum@pmmlabs.ru>"
+    }
+  }
+}
