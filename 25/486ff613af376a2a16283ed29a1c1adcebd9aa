@@ -1,0 +1,18 @@
+package.json
+  h_4bfcd31e5ba605 1-7
+vercel.json
+  h_4bfcd31e5ba605 1-5
+webhook.js
+  h_4bfcd31e5ba605 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "25486ff613af376a2a16283ed29a1c1adcebd9aa",
+  "prompts": {},
+  "humans": {
+    "h_4bfcd31e5ba605": {
+      "author": "Pmmlabs <microreticulum@pmmlabs.ru>"
+    }
+  }
+}
